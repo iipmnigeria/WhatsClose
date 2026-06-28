@@ -1,0 +1,6 @@
+{
+  "name": "WhatsClose",
+  "description": "WhatsApp Marketing and Sales Automation App for MSMEs in Nigeria and Africa to turn inquiries into paying customers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
